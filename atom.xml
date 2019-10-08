@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://stdoo.github.io</id>
     <title>三块半</title>
-    <updated>2019-10-08T13:14:25.798Z</updated>
+    <updated>2019-10-08T13:32:34.908Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://stdoo.github.io"/>
     <link rel="self" href="https://stdoo.github.io/atom.xml"/>
@@ -16,9 +16,11 @@
         <link href="https://stdoo.github.io/post/multi-head-attention">
         </link>
         <updated>2019-10-08T13:07:44.000Z</updated>
-        <summary type="html"><![CDATA[<p>多头注意力...多个头？每个头注意不同的东西？</p>
+        <summary type="html"><![CDATA[<p><img src="https://stdoo.github.io/post-images/multi-head.jpg" alt=""><br>
+多头注意力...多个头？每个头注意不同的东西？</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p>多头注意力...多个头？每个头注意不同的东西？</p>
+        <content type="html"><![CDATA[<p><img src="https://stdoo.github.io/post-images/multi-head.jpg" alt=""><br>
+多头注意力...多个头？每个头注意不同的东西？</p>
 <!-- more -->
 ]]></content>
     </entry>
